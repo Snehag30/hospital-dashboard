@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hospital Real-Time Dashboard</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <link rel="stylesheet" href="styles.css">
+<!--    <link rel="stylesheet" href="notification.css">-->
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <script src="script.js" defer></script>
+    <script src="https://kit.fontawesome.com/432f3edb30.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+        <nav class="sidebar">
+      <header>
+        <div class="image-text">
+          <span class="image">
+            <img src="https://t4.ftcdn.net/jpg/04/06/91/91/240_F_406919147_D3WsGjwXj1qmFNrei2ZFvBWwiueRcFmg.jpg" alt="logo" />
+          </span>
+          <div class="text header-text">
+            <span class="main">Real-Time Hospital Dashboard</span>
+
+          </div>
+        </div>
+
+      </header>
+
+      <div class="menu-bar">
+        <div class="menu">
+            <a href="#dashboard" class="nav-link active">
+            <div class="nav_tab">
+                   <i class="bx bxs-dashboard icon"></i>
+                    <span class="text nav-text">Dashboard</span>
+            </div>
+            </a>
+            <a href="#billing_chart" class="nav-link">
+            <div class="nav_tab">
+                     <i class="bx bx-money icon"></i>
+                    <span class="text nav-text">Billing Chart</span>
+            </div>
+            </a>
+
+           <div class="dropdowns">
+        <label for="department">Select Department:</label>
+        <select id="department">
+            <option value="all">All Departments</option>
+            <option value="neurology">Neurology</option>
+            <option value="orthopedics">Orthopedics</option>
+            <option value="pediatrics">Pediatrics</option>
+            <option value="cardiology">Cardiology</option>
+        </select>
+
+               <label >Select Time Interval:</label>
+                 <div class="date-filter-container">
+  <div class="date-input-group">
+    <label for="start-date">Start Date:</label>
+    <input type="date" id="start-date" class="date-input">
+  </div>
+  <div class="date-input-group">
+    <label for="end-date">End Date:</label>
+    <input type="date" id="end-date" class="date-input">
+  </div>
+  <button id="filter-btn" class="filter-button">Apply Filter</button>
+</div>
+
+        </div>
+    </div>
+
+
+
+        <div class="bottom-content">
+
+                 <a href="#notifications" class="nav-link">
+        <div>
+            <i class="bx bx-bell icon" class="icon"></i>
+            <span class="text nav-text" id="notification-heading">Notifications</span>
+            <span class="notification-badge" id="notification-badge">0</span>
+        </div>
+    </a>
+
+
+        </div>
+      </div>
+    </nav>
+    <section class="main-content">
+        <div id="dashboard">
+
+
+
+            <div class="kpis">
+                <div class="kpi-card">
+                    <i class="bx bx-plus-medical"></i>
+                    <div class="kpi-content">
+                        <span class="value"  id="admission-cnt">0</span>
+                        <span class="label">Admissions</span>
+                    </div>
+                </div>
+                <div class="kpi-card" >
+                    <i class="bx bx-exit"></i>
+                    <div class="kpi-content">
+                        <span class="value" id="discharge-cnt">0</span>
+                        <span class="label">Discharges</span>
+                    </div>
+                </div>
+                <div class="kpi-card" >
+                    <i class="bx bx-rupee"></i>
+                    <div class="kpi-content">
+                        <span class="value" id="billing-avg">0</span>
+                        <span class="label">Avg. Billing</span>
+                    </div>
+                </div>
+            </div>
+        <div class="row2">
+            <div class="chart-container">
+                 <div class="chart" id="recovery-rate-chart"></div>
+            </div>
+
+
+                <div>
+                    <div class="kpis" style="margin-top:20px;">
+                <div class="kpi-card">
+                   <i class="bx bx-bed icon"></i>
+                    <div class="kpi-content">
+                        <span class="value"  id="bed-count">0</span>
+                        <span class="label">Total Beds</span>
+                    </div>
+                </div>
+                <div class="kpi-card" >
+                    <svg xmlns="http://www.w3.org/2000/svg" height="20" width="25" viewBox="0 0 640 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#6366f1" d="M483.2 9.6L524 64l92 0c13.3 0 24 10.7 24 24s-10.7 24-24 24l-104 0c-7.6 0-14.7-3.6-19.2-9.6L468.7 70.3l-47 99.9c-3.7 7.8-11.3 13.1-19.9 13.7s-16.9-3.4-21.7-10.6L339.2 112 216 112c-13.3 0-24-10.7-24-24s10.7-24 24-24l136 0c8 0 15.5 4 20 10.7l24.4 36.6 45.9-97.5C445.9 6.2 453.2 1 461.6 .1s16.6 2.7 21.6 9.5zM320 160l12.7 0 20.7 31.1c11.2 16.8 30.6 26.3 50.7 24.8s37.9-13.7 46.5-32L461.9 160l82.1 0c53 0 96 43 96 96l0 224c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-32-224 0-32 0L64 448l0 32c0 17.7-14.3 32-32 32s-32-14.3-32-32L0 96C0 78.3 14.3 64 32 64s32 14.3 32 32l0 256 224 0 0-160c0-17.7 14.3-32 32-32zm-144 0a80 80 0 1 1 0 160 80 80 0 1 1 0-160z"/></svg>
+                    <div class="kpi-content">
+                        <span class="value" id="occupied-bed-count">0</span>
+                        <span class="label">Occupied Beds</span>
+                    </div>
+                </div>
+                <div class="kpi-card" >
+                    <svg xmlns="http://www.w3.org/2000/svg" height="20" width="15" viewBox="0 0 384 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#6366f1" d="M374.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-320 320c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l320-320zM128 128A64 64 0 1 0 0 128a64 64 0 1 0 128 0zM384 384a64 64 0 1 0 -128 0 64 64 0 1 0 128 0z"/></svg>
+                    <div class="kpi-content">
+                        <span class="value" id="percentage">0</span>
+                        <span class="label">Occupancy Rate</span>
+                    </div>
+                </div>
+            </div>
+                    </div>
+
+            <div class="chart-container">
+                <div id="gender-chart"></div>
+            </div>
+        </div>
+        <div class="chart-container">
+            <div class = "chart" id="admissions-chart"></div>
+        </div>
+         <div class="chart-container">
+        <div class = "chart" id="discharges-chart"></div>
+             </div>
+          <div class="chart-container">
+        <div class = "chart" id="billing-chart"></div>
+              </div>
+            <div class="row6">
+                <div class="chart-container">
+                    <div class = "chart" id="bed-occupancy-chart"></div>
+                </div>
+                <div class="chart-container">
+                    <div class="chart" id="age-distribution-chart"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="billing_chart">
+             <div class="billing-container">
+            <table class="billing-table">
+                <thead>
+                    <tr>
+                        <th>Patient ID</th>
+                        <th>Timestamp</th>
+                        <th>Department</th>
+                        <th>Bed ID</th>
+                        <th>Amount</th>
+                    </tr>
+                </thead>
+                <tbody id="billing-table-body">
+                </tbody>
+            </table>
+         </div>
+        </div>
+
+        <div id="notifications" class="notification-panel">
+        <div class="flex justify-between items-center">
+            <h2 class="text-xl font-semibold">Notifications</h2>
+            <button class="clear-notifications" id="clear-notifications">
+                Clear All
+            </button>
+        </div>
+        <div class="notification-list" id="notification-list">
+            <!-- Notifications will be dynamically added here -->
+        </div>
+    </div>
+
+    </section>
+
+</body>
+</html>
+

@@ -1,0 +1,6 @@
+pytz
+kafka-python
+SQLAlchemy
+Flask
+flask-socketio
+flask-cors

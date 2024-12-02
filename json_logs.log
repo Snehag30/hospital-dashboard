@@ -1,0 +1,231 @@
+{"Username": "sneha", "Log_id": 2, "Timestamp": "2024-11-07T08:07:48.584505+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 3, "Timestamp": "2024-11-07T08:07:48.584505+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 1402.5681625641669}}
+{"Username": "sneha", "Log_id": 4, "Timestamp": "2024-11-07T08:07:50.602819+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 5, "Timestamp": "2024-11-07T08:07:52.605521+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 6, "Timestamp": "2024-11-07T08:07:54.613290+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 7, "Timestamp": "2024-11-07T08:07:56.617099+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 8, "Timestamp": "2024-11-07T08:07:56.618324+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 5309.776368676663}}
+{"Username": "sneha", "Log_id": 9, "Timestamp": "2024-11-07T08:07:58.621608+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 10, "Timestamp": "2024-11-07T08:08:00.626752+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 11, "Timestamp": "2024-11-07T08:08:00.626752+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 6273.557669306109}}
+{"Username": "sneha", "Log_id": 12, "Timestamp": "2024-11-07T08:08:02.631474+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 13, "Timestamp": "2024-11-07T08:08:04.635071+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 14, "Timestamp": "2024-11-07T08:08:04.635071+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 9484.354801841155}}
+{"Username": "sneha", "Log_id": 15, "Timestamp": "2024-11-07T08:08:06.640228+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 16, "Timestamp": "2024-11-07T08:08:06.645255+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 9333.891463905675}}
+{"Username": "sneha", "Log_id": 17, "Timestamp": "2024-11-07T08:08:08.648227+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 18, "Timestamp": "2024-11-07T08:08:10.654855+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 19, "Timestamp": "2024-11-07T08:08:12.658178+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 20, "Timestamp": "2024-11-07T08:08:12.658178+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 5880.683110234075}}
+{"Username": "sneha", "Log_id": 21, "Timestamp": "2024-11-07T08:08:14.662645+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 22, "Timestamp": "2024-11-07T08:08:14.662645+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 6921.1617082383245}}
+{"Username": "sneha", "Log_id": 23, "Timestamp": "2024-11-07T08:08:16.676609+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 24, "Timestamp": "2024-11-07T08:08:18.683011+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 25, "Timestamp": "2024-11-07T08:08:20.686042+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 26, "Timestamp": "2024-11-07T08:08:20.686042+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 5695.9005431335745}}
+{"Username": "sneha", "Log_id": 27, "Timestamp": "2024-11-07T08:08:22.694390+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 28, "Timestamp": "2024-11-07T08:08:24.698004+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 29, "Timestamp": "2024-11-07T08:08:26.700383+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 30, "Timestamp": "2024-11-07T08:08:26.700383+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 6738.364569594418}}
+{"Username": "sneha", "Log_id": 31, "Timestamp": "2024-11-07T08:08:28.704666+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 32, "Timestamp": "2024-11-07T08:08:28.704666+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 6362.970295079991}}
+{"Username": "sneha", "Log_id": 33, "Timestamp": "2024-11-07T08:08:30.709401+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 34, "Timestamp": "2024-11-07T08:08:32.714117+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 35, "Timestamp": "2024-11-07T08:08:34.721085+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 36, "Timestamp": "2024-11-07T08:08:34.725182+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 9038.986941051455}}
+{"Username": "sneha", "Log_id": 37, "Timestamp": "2024-11-07T08:08:36.735665+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 38, "Timestamp": "2024-11-07T08:08:38.739032+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 39, "Timestamp": "2024-11-07T08:08:38.739032+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 3647.7748403149776}}
+{"Username": "sneha", "Log_id": 40, "Timestamp": "2024-11-07T08:08:40.744286+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 41, "Timestamp": "2024-11-07T08:08:42.746761+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 42, "Timestamp": "2024-11-07T08:08:44.750260+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 43, "Timestamp": "2024-11-07T08:08:44.750260+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 9377.80033031806}}
+{"Username": "sneha", "Log_id": 44, "Timestamp": "2024-11-07T08:08:46.755528+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 45, "Timestamp": "2024-11-07T08:08:48.760298+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 46, "Timestamp": "2024-11-07T08:08:50.764062+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 47, "Timestamp": "2024-11-07T08:08:50.764062+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 7376.9660674479865}}
+{"Username": "sneha", "Log_id": 48, "Timestamp": "2024-11-07T08:08:52.772038+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 49, "Timestamp": "2024-11-07T08:08:54.778512+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 50, "Timestamp": "2024-11-07T08:08:56.781455+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 51, "Timestamp": "2024-11-07T08:08:56.781455+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 2112.664792140342}}
+{"Username": "sneha", "Log_id": 52, "Timestamp": "2024-11-07T08:08:58.785958+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 53, "Timestamp": "2024-11-07T08:08:58.787068+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 1010.3800978066768}}
+{"Username": "sneha", "Log_id": 54, "Timestamp": "2024-11-07T08:09:00.790535+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 55, "Timestamp": "2024-11-07T08:09:02.793263+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 56, "Timestamp": "2024-11-07T08:09:04.798931+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 57, "Timestamp": "2024-11-07T08:09:06.801727+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 58, "Timestamp": "2024-11-07T08:09:08.808765+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 59, "Timestamp": "2024-11-07T08:09:10.811308+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 60, "Timestamp": "2024-11-07T08:09:10.811308+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 9712.851703319877}}
+{"Username": "sneha", "Log_id": 61, "Timestamp": "2024-11-07T08:09:12.816008+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 62, "Timestamp": "2024-11-07T08:09:14.819268+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 63, "Timestamp": "2024-11-07T08:09:16.831316+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 64, "Timestamp": "2024-11-07T08:09:18.834615+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 65, "Timestamp": "2024-11-07T08:09:18.834615+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 9309.823146290542}}
+{"Username": "sneha", "Log_id": 66, "Timestamp": "2024-11-07T08:09:20.840098+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 67, "Timestamp": "2024-11-07T08:09:20.840098+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 8290.445779610967}}
+{"Username": "sneha", "Log_id": 68, "Timestamp": "2024-11-07T08:09:22.849192+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 69, "Timestamp": "2024-11-07T08:09:22.849192+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 9419.91147039727}}
+{"Username": "sneha", "Log_id": 70, "Timestamp": "2024-11-07T08:09:24.858347+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 71, "Timestamp": "2024-11-07T08:09:24.858347+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 8156.016475110956}}
+{"Username": "sneha", "Log_id": 72, "Timestamp": "2024-11-07T08:09:26.863225+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 73, "Timestamp": "2024-11-07T08:09:26.863225+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 2775.5553785528314}}
+{"Username": "sneha", "Log_id": 74, "Timestamp": "2024-11-07T08:09:28.868089+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 75, "Timestamp": "2024-11-07T08:09:30.870675+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 76, "Timestamp": "2024-11-07T08:09:30.870675+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 3590.8295443151956}}
+{"Username": "sneha", "Log_id": 77, "Timestamp": "2024-11-07T08:09:32.880514+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 78, "Timestamp": "2024-11-07T08:09:32.880514+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 8522.247315953733}}
+{"Username": "sneha", "Log_id": 79, "Timestamp": "2024-11-07T08:09:34.898857+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 80, "Timestamp": "2024-11-07T08:09:36.901566+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 81, "Timestamp": "2024-11-07T08:09:38.904615+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 82, "Timestamp": "2024-11-07T08:09:38.904615+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 2777.393697296993}}
+{"Username": "sneha", "Log_id": 83, "Timestamp": "2024-11-07T08:09:40.909627+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 84, "Timestamp": "2024-11-07T08:09:40.909627+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 3703.5907507034963}}
+{"Username": "sneha", "Log_id": 85, "Timestamp": "2024-11-07T08:09:42.914457+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 86, "Timestamp": "2024-11-07T08:09:42.914457+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 5755.643980420997}}
+{"Username": "sneha", "Log_id": 87, "Timestamp": "2024-11-07T08:09:44.919463+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 88, "Timestamp": "2024-11-07T08:09:46.922289+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 89, "Timestamp": "2024-11-07T08:09:46.922289+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 6525.239391316396}}
+{"Username": "sneha", "Log_id": 90, "Timestamp": "2024-11-07T08:09:48.928748+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 91, "Timestamp": "2024-11-07T08:09:50.938786+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 92, "Timestamp": "2024-11-07T08:09:52.943428+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 93, "Timestamp": "2024-11-07T08:09:54.948680+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 94, "Timestamp": "2024-11-07T08:09:54.948680+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 8647.998326594374}}
+{"Username": "sneha", "Log_id": 95, "Timestamp": "2024-11-07T08:09:56.953483+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 96, "Timestamp": "2024-11-07T08:09:56.953483+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 6805.672723735847}}
+{"Username": "sneha", "Log_id": 97, "Timestamp": "2024-11-07T08:09:58.958358+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 98, "Timestamp": "2024-11-07T08:09:58.958358+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 8279.243561495186}}
+{"Username": "sneha", "Log_id": 99, "Timestamp": "2024-11-07T08:10:00.964046+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics"}}
+{"Username": "sneha", "Log_id": 100, "Timestamp": "2024-11-07T08:10:00.964587+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 6158.653710051308}}
+{"Username": "sneha", "Log_id": 101, "Timestamp": "2024-11-07T08:10:02.969051+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 102, "Timestamp": "2024-11-07T08:10:04.971868+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics"}}
+{"Username": "sneha", "Log_id": 103, "Timestamp": "2024-11-07T08:10:06.975484+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology"}}
+{"Username": "sneha", "Log_id": 104, "Timestamp": "2024-11-07T08:10:06.980064+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 6318.236129169955}}
+{"Username": "sneha", "Log_id": 106, "Timestamp": "2024-11-07T08:10:09.000442+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology"}}
+{"Username": "sneha", "Log_id": 2, "Timestamp": "2024-11-07T08:12:05.297114+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics", "time": "2024-10-31T13:52:05.297114"}}
+{"Username": "sneha", "Log_id": 3, "Timestamp": "2024-11-07T08:12:07.314799+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics", "time": "2024-10-31T14:02:05.297114"}}
+{"Username": "sneha", "Log_id": 4, "Timestamp": "2024-11-07T08:12:07.314799+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 6959.337291772965, "time": "2024-10-31T14:02:05.297114"}}
+{"Username": "sneha", "Log_id": 5, "Timestamp": "2024-11-07T08:12:09.321114+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology", "time": "2024-10-31T14:12:05.297114"}}
+{"Username": "sneha", "Log_id": 6, "Timestamp": "2024-11-07T08:12:11.324658+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology", "time": "2024-10-31T14:22:05.297114"}}
+{"Username": "sneha", "Log_id": 7, "Timestamp": "2024-11-07T08:12:13.327994+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology", "time": "2024-10-31T14:32:05.297114"}}
+{"Username": "sneha", "Log_id": 8, "Timestamp": "2024-11-07T08:12:13.327994+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 5248.2216302067545, "time": "2024-10-31T14:32:05.297114"}}
+{"Username": "sneha", "Log_id": 9, "Timestamp": "2024-11-07T08:12:15.332958+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology", "time": "2024-10-31T14:42:05.297114"}}
+{"Username": "sneha", "Log_id": 10, "Timestamp": "2024-11-07T08:12:17.338506+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-10-31T14:52:05.297114"}}
+{"Username": "sneha", "Log_id": 11, "Timestamp": "2024-11-07T08:12:19.342712+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology", "time": "2024-10-31T15:02:05.297114"}}
+{"Username": "sneha", "Log_id": 12, "Timestamp": "2024-11-07T08:12:21.346099+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics", "time": "2024-10-31T15:12:05.297114"}}
+{"Username": "sneha", "Log_id": 13, "Timestamp": "2024-11-07T08:12:21.346099+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 4992.506953115113, "time": "2024-10-31T15:12:05.297114"}}
+{"Username": "sneha", "Log_id": 14, "Timestamp": "2024-11-07T08:12:23.351290+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-10-31T15:22:05.297114"}}
+{"Username": "sneha", "Log_id": 15, "Timestamp": "2024-11-07T08:12:25.358014+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics", "time": "2024-11-01T13:52:25.358014"}}
+{"Username": "sneha", "Log_id": 16, "Timestamp": "2024-11-07T08:12:25.359651+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 3277.6715596055083, "time": "2024-11-01T13:52:25.358014"}}
+{"Username": "sneha", "Log_id": 17, "Timestamp": "2024-11-07T08:12:27.363287+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology", "time": "2024-11-01T14:02:25.358014"}}
+{"Username": "sneha", "Log_id": 18, "Timestamp": "2024-11-07T08:12:27.363287+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 4591.82239296316, "time": "2024-11-01T14:02:25.358014"}}
+{"Username": "sneha", "Log_id": 19, "Timestamp": "2024-11-07T08:12:29.371409+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology", "time": "2024-11-01T14:12:25.358014"}}
+{"Username": "sneha", "Log_id": 20, "Timestamp": "2024-11-07T08:12:29.371409+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 4142.351204066986, "time": "2024-11-01T14:12:25.358014"}}
+{"Username": "sneha", "Log_id": 21, "Timestamp": "2024-11-07T08:12:31.382529+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics", "time": "2024-11-01T14:22:25.358014"}}
+{"Username": "sneha", "Log_id": 22, "Timestamp": "2024-11-07T08:12:33.386718+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics", "time": "2024-11-01T14:32:25.358014"}}
+{"Username": "sneha", "Log_id": 23, "Timestamp": "2024-11-07T08:12:33.386718+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 6866.706310699293, "time": "2024-11-01T14:32:25.358014"}}
+{"Username": "sneha", "Log_id": 24, "Timestamp": "2024-11-07T08:12:35.391858+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-11-01T14:42:25.358014"}}
+{"Username": "sneha", "Log_id": 25, "Timestamp": "2024-11-07T08:12:37.395178+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology", "time": "2024-11-01T14:52:25.358014"}}
+{"Username": "sneha", "Log_id": 26, "Timestamp": "2024-11-07T08:12:39.398702+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology", "time": "2024-11-01T15:02:25.358014"}}
+{"Username": "sneha", "Log_id": 27, "Timestamp": "2024-11-07T08:12:41.403431+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology", "time": "2024-11-01T15:12:25.358014"}}
+{"Username": "sneha", "Log_id": 28, "Timestamp": "2024-11-07T08:12:43.408042+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology", "time": "2024-11-01T15:22:25.358014"}}
+{"Username": "sneha", "Log_id": 29, "Timestamp": "2024-11-07T08:12:45.411610+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology", "time": "2024-11-02T13:52:45.411610"}}
+{"Username": "sneha", "Log_id": 30, "Timestamp": "2024-11-07T08:12:45.411610+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 5810.172596097244, "time": "2024-11-02T13:52:45.411610"}}
+{"Username": "sneha", "Log_id": 31, "Timestamp": "2024-11-07T08:12:47.421474+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology", "time": "2024-11-02T14:02:45.411610"}}
+{"Username": "sneha", "Log_id": 32, "Timestamp": "2024-11-07T08:12:49.426281+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology", "time": "2024-11-02T14:12:45.411610"}}
+{"Username": "sneha", "Log_id": 33, "Timestamp": "2024-11-07T08:12:49.428287+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 4923.983912200794, "time": "2024-11-02T14:12:45.411610"}}
+{"Username": "sneha", "Log_id": 34, "Timestamp": "2024-11-07T08:12:51.432608+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-11-02T14:22:45.411610"}}
+{"Username": "sneha", "Log_id": 35, "Timestamp": "2024-11-07T08:12:53.436911+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-11-02T14:32:45.411610"}}
+{"Username": "sneha", "Log_id": 36, "Timestamp": "2024-11-07T08:12:55.441890+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-11-02T14:42:45.411610"}}
+{"Username": "sneha", "Log_id": 37, "Timestamp": "2024-11-07T08:12:57.445337+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-11-02T14:52:45.411610"}}
+{"Username": "sneha", "Log_id": 38, "Timestamp": "2024-11-07T08:12:59.452679+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology", "time": "2024-11-02T15:02:45.411610"}}
+{"Username": "sneha", "Log_id": 39, "Timestamp": "2024-11-07T08:13:01.462608+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-11-02T15:12:45.411610"}}
+{"Username": "sneha", "Log_id": 40, "Timestamp": "2024-11-07T08:13:03.467008+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology", "time": "2024-11-02T15:22:45.411610"}}
+{"Username": "sneha", "Log_id": 41, "Timestamp": "2024-11-07T08:13:05.470393+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics", "time": "2024-11-03T13:53:05.470393"}}
+{"Username": "sneha", "Log_id": 42, "Timestamp": "2024-11-07T08:13:05.470393+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 6745.663435233534, "time": "2024-11-03T13:53:05.470393"}}
+{"Username": "sneha", "Log_id": 43, "Timestamp": "2024-11-07T08:13:07.478791+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology", "time": "2024-11-03T14:03:05.470393"}}
+{"Username": "sneha", "Log_id": 44, "Timestamp": "2024-11-07T08:13:07.478791+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 7296.5334243275, "time": "2024-11-03T14:03:05.470393"}}
+{"Username": "sneha", "Log_id": 45, "Timestamp": "2024-11-07T08:13:09.486108+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology", "time": "2024-11-03T14:13:05.470393"}}
+{"Username": "sneha", "Log_id": 46, "Timestamp": "2024-11-07T08:13:11.490147+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-11-03T14:23:05.470393"}}
+{"Username": "sneha", "Log_id": 47, "Timestamp": "2024-11-07T08:13:13.493415+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-11-03T14:33:05.470393"}}
+{"Username": "sneha", "Log_id": 48, "Timestamp": "2024-11-07T08:13:15.500231+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology", "time": "2024-11-03T14:43:05.470393"}}
+{"Username": "sneha", "Log_id": 49, "Timestamp": "2024-11-07T08:13:15.500231+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 8853.01204207633, "time": "2024-11-03T14:43:05.470393"}}
+{"Username": "sneha", "Log_id": 50, "Timestamp": "2024-11-07T08:13:17.507376+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology", "time": "2024-11-03T14:53:05.470393"}}
+{"Username": "sneha", "Log_id": 51, "Timestamp": "2024-11-07T08:13:17.507376+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 5708.209406611895, "time": "2024-11-03T14:53:05.470393"}}
+{"Username": "sneha", "Log_id": 52, "Timestamp": "2024-11-07T08:13:19.519793+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics", "time": "2024-11-03T15:03:05.470393"}}
+{"Username": "sneha", "Log_id": 53, "Timestamp": "2024-11-07T08:13:19.519793+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 6810.10809337924, "time": "2024-11-03T15:03:05.470393"}}
+{"Username": "sneha", "Log_id": 54, "Timestamp": "2024-11-07T08:13:21.525981+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology", "time": "2024-11-03T15:13:05.470393"}}
+{"Username": "sneha", "Log_id": 55, "Timestamp": "2024-11-07T08:13:23.531119+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics", "time": "2024-11-03T15:23:05.470393"}}
+{"Username": "sneha", "Log_id": 56, "Timestamp": "2024-11-07T08:13:23.531119+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 9385.279850991381, "time": "2024-11-03T15:23:05.470393"}}
+{"Username": "sneha", "Log_id": 57, "Timestamp": "2024-11-07T08:13:25.541019+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology", "time": "2024-11-04T13:53:25.541019"}}
+{"Username": "sneha", "Log_id": 58, "Timestamp": "2024-11-07T08:13:25.542141+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 4649.668992764093, "time": "2024-11-04T13:53:25.541019"}}
+{"Username": "sneha", "Log_id": 59, "Timestamp": "2024-11-07T08:13:27.547171+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics", "time": "2024-11-04T14:03:25.541019"}}
+{"Username": "sneha", "Log_id": 60, "Timestamp": "2024-11-07T08:13:29.550933+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology", "time": "2024-11-04T14:13:25.541019"}}
+{"Username": "sneha", "Log_id": 61, "Timestamp": "2024-11-07T08:13:31.558367+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology", "time": "2024-11-04T14:23:25.541019"}}
+{"Username": "sneha", "Log_id": 62, "Timestamp": "2024-11-07T08:13:31.558367+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 5139.15330571817, "time": "2024-11-04T14:23:25.541019"}}
+{"Username": "sneha", "Log_id": 63, "Timestamp": "2024-11-07T08:13:33.565480+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-11-04T14:33:25.541019"}}
+{"Username": "sneha", "Log_id": 64, "Timestamp": "2024-11-07T08:13:35.569679+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology", "time": "2024-11-04T14:43:25.541019"}}
+{"Username": "sneha", "Log_id": 65, "Timestamp": "2024-11-07T08:13:35.569679+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 1319.5857606451632, "time": "2024-11-04T14:43:25.541019"}}
+{"Username": "sneha", "Log_id": 66, "Timestamp": "2024-11-07T08:13:37.579525+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-11-04T14:53:25.541019"}}
+{"Username": "sneha", "Log_id": 67, "Timestamp": "2024-11-07T08:13:39.583714+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-11-04T15:03:25.541019"}}
+{"Username": "sneha", "Log_id": 68, "Timestamp": "2024-11-07T08:13:41.590380+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology", "time": "2024-11-04T15:13:25.541019"}}
+{"Username": "sneha", "Log_id": 69, "Timestamp": "2024-11-07T08:13:43.593015+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics", "time": "2024-11-04T15:23:25.541019"}}
+{"Username": "sneha", "Log_id": 70, "Timestamp": "2024-11-07T08:13:43.593015+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 5840.608043595057, "time": "2024-11-04T15:23:25.541019"}}
+{"Username": "sneha", "Log_id": 71, "Timestamp": "2024-11-07T08:13:45.601302+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics", "time": "2024-11-05T13:53:45.601053"}}
+{"Username": "sneha", "Log_id": 72, "Timestamp": "2024-11-07T08:13:47.606880+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics", "time": "2024-11-05T14:03:45.601053"}}
+{"Username": "sneha", "Log_id": 73, "Timestamp": "2024-11-07T08:13:49.610242+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics", "time": "2024-11-05T14:13:45.601053"}}
+{"Username": "sneha", "Log_id": 74, "Timestamp": "2024-11-07T08:13:51.612644+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics", "time": "2024-11-05T14:23:45.601053"}}
+{"Username": "sneha", "Log_id": 75, "Timestamp": "2024-11-07T08:13:53.615643+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-11-05T14:33:45.601053"}}
+{"Username": "sneha", "Log_id": 76, "Timestamp": "2024-11-07T08:13:55.617539+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology", "time": "2024-11-05T14:43:45.601053"}}
+{"Username": "sneha", "Log_id": 77, "Timestamp": "2024-11-07T08:13:55.617539+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 5602.2448353114405, "time": "2024-11-05T14:43:45.601053"}}
+{"Username": "sneha", "Log_id": 78, "Timestamp": "2024-11-07T08:13:57.635097+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics", "time": "2024-11-05T14:53:45.601053"}}
+{"Username": "sneha", "Log_id": 79, "Timestamp": "2024-11-07T08:13:57.635097+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 3750.9006989169725, "time": "2024-11-05T14:53:45.601053"}}
+{"Username": "sneha", "Log_id": 80, "Timestamp": "2024-11-07T08:13:59.638385+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics", "time": "2024-11-05T15:03:45.601053"}}
+{"Username": "sneha", "Log_id": 81, "Timestamp": "2024-11-07T08:13:59.638385+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 6311.579425905629, "time": "2024-11-05T15:03:45.601053"}}
+{"Username": "sneha", "Log_id": 82, "Timestamp": "2024-11-07T08:14:01.643344+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology", "time": "2024-11-05T15:13:45.601053"}}
+{"Username": "sneha", "Log_id": 83, "Timestamp": "2024-11-07T08:14:03.649103+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics", "time": "2024-11-05T15:23:45.601053"}}
+{"Username": "sneha", "Log_id": 84, "Timestamp": "2024-11-07T08:14:03.649103+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 7657.270340426505, "time": "2024-11-05T15:23:45.601053"}}
+{"Username": "sneha", "Log_id": 85, "Timestamp": "2024-11-07T08:14:05.653686+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics", "time": "2024-11-06T13:54:05.653686"}}
+{"Username": "sneha", "Log_id": 86, "Timestamp": "2024-11-07T08:14:05.653686+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 9631.74301111993, "time": "2024-11-06T13:54:05.653686"}}
+{"Username": "sneha", "Log_id": 87, "Timestamp": "2024-11-07T08:14:07.657270+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-11-06T14:04:05.653686"}}
+{"Username": "sneha", "Log_id": 88, "Timestamp": "2024-11-07T08:14:09.660845+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology", "time": "2024-11-06T14:14:05.653686"}}
+{"Username": "sneha", "Log_id": 89, "Timestamp": "2024-11-07T08:14:11.663181+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology", "time": "2024-11-06T14:24:05.653686"}}
+{"Username": "sneha", "Log_id": 90, "Timestamp": "2024-11-07T08:14:11.663181+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 3662.276638024866, "time": "2024-11-06T14:24:05.653686"}}
+{"Username": "sneha", "Log_id": 91, "Timestamp": "2024-11-07T08:14:13.667097+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics", "time": "2024-11-06T14:34:05.653686"}}
+{"Username": "sneha", "Log_id": 92, "Timestamp": "2024-11-07T08:14:15.672882+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology", "time": "2024-11-06T14:44:05.653686"}}
+{"Username": "sneha", "Log_id": 93, "Timestamp": "2024-11-07T08:14:17.679066+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "neurology", "time": "2024-11-06T14:54:05.653686"}}
+{"Username": "sneha", "Log_id": 94, "Timestamp": "2024-11-07T08:14:19.682836+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics", "time": "2024-11-06T15:04:05.653686"}}
+{"Username": "sneha", "Log_id": 95, "Timestamp": "2024-11-07T08:14:19.682836+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 9925.338821632055, "time": "2024-11-06T15:04:05.653686"}}
+{"Username": "sneha", "Log_id": 96, "Timestamp": "2024-11-07T08:14:21.687284+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics", "time": "2024-11-06T15:14:05.653686"}}
+{"Username": "sneha", "Log_id": 97, "Timestamp": "2024-11-07T08:14:21.687284+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 2444.8244103313273, "time": "2024-11-06T15:14:05.653686"}}
+{"Username": "sneha", "Log_id": 98, "Timestamp": "2024-11-07T08:14:23.691331+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics", "time": "2024-11-06T15:24:05.653686"}}
+{"Username": "sneha", "Log_id": 99, "Timestamp": "2024-11-07T08:14:23.691331+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 3901.2777553384094, "time": "2024-11-06T15:24:05.653686"}}
+{"Username": "sneha", "Log_id": 101, "Timestamp": "2024-11-07T08:14:25.711075+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics", "time": "2024-11-07T13:44:25.711075"}}
+{"Username": "sneha", "Log_id": 102, "Timestamp": "2024-11-07T08:14:25.711075+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 8637.186443659033, "time": "2024-11-07T13:44:25.711075"}}
+{"Username": "sneha", "Log_id": 103, "Timestamp": "2024-11-07T09:46:08.954340+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics", "time": "2024-11-07T15:16:08.954340"}}
+{"Username": "sneha", "Log_id": 104, "Timestamp": "2024-11-07T09:51:08.966805+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics", "time": "2024-11-07T15:21:08.966805"}}
+{"Username": "sneha", "Log_id": 105, "Timestamp": "2024-11-07T09:51:08.970496+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 7921.181772113732, "time": "2024-11-07T15:21:08.966805"}}
+{"Username": "sneha", "Log_id": 106, "Timestamp": "2024-11-07T09:56:08.975307+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics", "time": "2024-11-07T15:26:08.975307"}}
+{"Username": "sneha", "Log_id": 107, "Timestamp": "2024-11-07T09:56:08.975307+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 6112.701928700414, "time": "2024-11-07T15:26:08.975307"}}
+{"Username": "sneha", "Log_id": 108, "Timestamp": "2024-11-07T10:01:08.981626+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics", "time": "2024-11-07T15:31:08.981626"}}
+{"Username": "sneha", "Log_id": 109, "Timestamp": "2024-11-07T10:01:08.981626+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 1211.5823219808099, "time": "2024-11-07T15:31:08.981626"}}
+{"Username": "sneha", "Log_id": 110, "Timestamp": "2024-11-07T10:06:08.989727+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics", "time": "2024-11-07T15:36:08.989727"}}
+{"Username": "sneha", "Log_id": 111, "Timestamp": "2024-11-07T10:11:08.992097+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology", "time": "2024-11-07T15:41:08.992097"}}
+{"Username": "sneha", "Log_id": 112, "Timestamp": "2024-11-07T10:16:08.994870+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology", "time": "2024-11-07T15:46:08.994870"}}
+{"Username": "sneha", "Log_id": 113, "Timestamp": "2024-11-07T10:16:08.994870+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 6062.982012520495, "time": "2024-11-07T15:46:08.994870"}}
+{"Username": "sneha", "Log_id": 114, "Timestamp": "2024-11-07T10:21:09.001201+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics", "time": "2024-11-07T15:51:09.001201"}}
+{"Username": "sneha", "Log_id": 115, "Timestamp": "2024-11-07T10:26:09.003752+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics", "time": "2024-11-07T15:56:09.003752"}}
+{"Username": "sneha", "Log_id": 116, "Timestamp": "2024-11-07T10:26:09.005787+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 9160.621171731513, "time": "2024-11-07T15:56:09.003752"}}
+{"Username": "sneha", "Log_id": 117, "Timestamp": "2024-11-07T10:31:09.008056+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "orthopedics", "time": "2024-11-07T16:01:09.008056"}}
+{"Username": "sneha", "Log_id": 118, "Timestamp": "2024-11-07T10:36:09.010813+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "neurology", "time": "2024-11-07T16:06:09.010813"}}
+{"Username": "sneha", "Log_id": 119, "Timestamp": "2024-11-07T10:36:09.013248+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "neurology", "amount": 5232.080510352858, "time": "2024-11-07T16:06:09.010813"}}
+{"Username": "sneha", "Log_id": 120, "Timestamp": "2024-11-07T10:41:09.016753+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "pediatrics", "time": "2024-11-07T16:11:09.016753"}}
+{"Username": "sneha", "Log_id": 121, "Timestamp": "2024-11-07T10:46:09.019247+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "cardiology", "time": "2024-11-07T16:16:09.019247"}}
+{"Username": "sneha", "Log_id": 122, "Timestamp": "2024-11-07T10:46:09.022248+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "cardiology", "amount": 4889.263412507909, "time": "2024-11-07T16:16:09.019247"}}
+{"Username": "sneha", "Log_id": 123, "Timestamp": "2024-11-07T10:51:09.039800+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics", "time": "2024-11-07T16:21:09.039741"}}
+{"Username": "sneha", "Log_id": 124, "Timestamp": "2024-11-07T10:51:09.041990+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 4613.857431417499, "time": "2024-11-07T16:21:09.039741"}}
+{"Username": "sneha", "Log_id": 125, "Timestamp": "2024-11-12T06:43:27.671969+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "pediatrics", "time": "2024-11-12T12:13:27.671969"}}
+{"Username": "sneha", "Log_id": 126, "Timestamp": "2024-11-12T06:43:27.680049+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "pediatrics", "amount": 5166.047412018607, "time": "2024-11-12T12:13:27.671969"}}
+{"Username": "sneha", "Log_id": 127, "Timestamp": "2024-11-12T06:48:27.684716+00:00", "Values": {"iserrorlog": 0, "event_type": "admission", "department": "cardiology", "time": "2024-11-12T12:18:27.684716"}}
+{"Username": "sneha", "Log_id": 128, "Timestamp": "2024-11-12T06:53:27.694124+00:00", "Values": {"iserrorlog": 0, "event_type": "discharge", "department": "orthopedics", "time": "2024-11-12T12:23:27.694124"}}
+{"Username": "sneha", "Log_id": 129, "Timestamp": "2024-11-12T06:53:27.703021+00:00", "Values": {"iserrorlog": 0, "event_type": "billing", "department": "orthopedics", "amount": 1294.1797718752887, "time": "2024-11-12T12:23:27.694124"}}
